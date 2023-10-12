@@ -1,0 +1,14 @@
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\bin\Release\net6.0\SpeedTestLinq.exe
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\bin\Release\net6.0\SpeedTestLinq.deps.json
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\bin\Release\net6.0\SpeedTestLinq.runtimeconfig.json
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\bin\Release\net6.0\SpeedTestLinq.dll
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\bin\Release\net6.0\SpeedTestLinq.pdb
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\SpeedTestLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\SpeedTestLinq.AssemblyInfoInputs.cache
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\SpeedTestLinq.AssemblyInfo.cs
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\SpeedTestLinq.csproj.CoreCompileInputs.cache
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\SpeedTestLinq.dll
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\refint\SpeedTestLinq.dll
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\SpeedTestLinq.pdb
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\SpeedTestLinq.genruntimeconfig.cache
+C:\Users\willk\source\repos\SpeedTestLinq\SpeedTestLinq\obj\Release\net6.0\ref\SpeedTestLinq.dll
