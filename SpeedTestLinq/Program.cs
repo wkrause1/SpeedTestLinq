@@ -19,13 +19,15 @@ public static class Program
 
         var stopWatch = Stopwatch.StartNew();
         int matchIndex = -1;
-
-        for (int i = 0; i <= searchArray.Length; i++) 
+        for (int outer = 0; outer < 100; ++outer)
         {
-            if (searchArray[i] == matchString)
+            for (int i = 0; i <= searchArray.Length; i++)
             {
-                matchIndex = i;
-                break;
+                if (searchArray[i] == matchString)
+                {
+                    matchIndex = i;
+                    break;
+                }
             }
         }
 
@@ -34,9 +36,12 @@ public static class Program
 
         stopWatch.Restart();
 
-        matchIndex = searchArray.Select((r, i) => new { value = r, index = i})
-            .Where(t => t.value == matchString)
-            .Select(s => s.index).First();
+        for (int outer = 0; outer < 100; ++outer)
+        {
+            matchIndex = searchArray.Select((r, i) => new { value = r, index = i })
+                .Where(t => t.value == matchString)
+                .Select(s => s.index).First();
+        }
         stopWatch.Stop();
 
         Console.WriteLine("Found via linq at index " + matchIndex + " in " + stopWatch.Elapsed);
